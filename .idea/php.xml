@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Behat">
+    <behat_settings>
+      <BehatSettings />
+    </behat_settings>
+  </component>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration max_messages_per_file="100" tool_path="&quot;C:/Program Files (x86)/PHP 5.4/php.exe&quot; &quot;C:/Sites/phpmd/src/bin/phpmd&quot;" timeout="10000" />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration max_messages_per_file="100" tool_path="&quot;C:/Program Files (x86)/PHP 5.4/php.exe&quot; &quot;C:/Sites/phpcs.phar&quot;" timeout="10000" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="C:/Sites/www.beslist.nl/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="3f5ed922-f81e-474b-8936-812956f250ad" interpreter_name="Remote PHP 5.4" load_method="PHPUNIT_PHAR" custom_loader_path="/var/www/htdocs/dev.beslist.nl/vendor/autoload.php" phpunit_phar_path="/home/vagrant/phpunit.phar" />
+    </phpunit_settings>
+  </component>
+</project>
